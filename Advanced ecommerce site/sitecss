@@ -1,0 +1,15 @@
+@font-face{
+	font-family: 'Lato-Light';
+    src: url('Lato-Light.ttf') format('truetype');
+ }
+
+ .headtext{
+ font-family: 'Lato-Light';
+ }
+ 
+ .catalogue{
+ width: 1920px;
+ height: 500px;
+ margin: 0 0;
+ }
+

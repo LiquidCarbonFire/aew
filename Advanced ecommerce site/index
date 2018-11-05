@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<div class="headtext">
+<h1 style="background-color:#202a25;">Welcome to our shop</h1>
+<h2>get a 20% discount on all items for the next 7 days</h2>
+</div>
+<div class="catalogue">
+<img class="catalogue" src="home_img1.jpg" alt="storefront">
+</div>
+<title>Home</title>
+<link href="sitecss" rel="stylesheet" type="text/css">
+</head>
+<body></body>
+</html>
